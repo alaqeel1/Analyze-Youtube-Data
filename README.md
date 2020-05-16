@@ -1,4 +1,4 @@
-# Analyze-Youtube-Data-In-US-
+# Analyze Youtube Data
 ### Analyze Youtube Data In US and Build Data Dashboards by using Tableau
 
 
@@ -35,7 +35,7 @@ to see YouTube data US          Click here
 Open the link to see visualization  [Click here](https://public.tableau.com/profile/abdullah4175#!/vizhome/p4_6/cityviews)
  
  
- (https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+
  
 we can see the Atlanta city has the most views the numbers of views in Atlanta city is very close of 2000 billion views , Atlanta the only city that has more than 1500 billion views after that Chicago City  numbers of views in Chicago city is very close of 1500 billion views,  then las vegas , denver , san Francisco … 
  
